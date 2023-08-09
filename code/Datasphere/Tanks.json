@@ -1,0 +1,62 @@
+{
+  "definitions": {
+    "Tank_Basic_Data": {
+      "kind": "entity",
+      "@ObjectModel.supportedCapabilities": [
+        {
+          "#": "DATA_STRUCTURE"
+        }
+      ],
+      "elements": {
+        "TANK_ID": {
+          "@EndUserText.label": "TANK_ID",
+          "type": "cds.String",
+          "length": 30,
+          "key": true
+        },
+        "LATITUDE": {
+          "@EndUserText.label": "LATITUDE",
+          "precision": 38,
+          "scale": 19,
+          "type": "cds.Decimal"
+        },
+        "LONGITUDE": {
+          "@EndUserText.label": "LONGITUDE",
+          "precision": 38,
+          "scale": 19,
+          "type": "cds.Decimal"
+        },
+        "INSPECTIONDATE": {
+          "@EndUserText.label": "INSPECTIONDATE",
+          "type": "cds.Date"
+        },
+        "SIZE": {
+          "@EndUserText.label": "SIZE",
+          "type": "cds.String",
+          "length": 10
+        },
+        "MEASURETECHNIQUE": {
+          "@EndUserText.label": "MEASURETECHNIQUE",
+          "type": "cds.String",
+          "length": 10
+        },
+        "MAX_CAPACITY": {
+          "@EndUserText.label": "MAX_CAPACITY",
+          "type": "cds.Integer64"
+        },
+        "UOM": {
+          "@EndUserText.label": "UOM",
+          "type": "cds.String",
+          "length": 10
+        }
+      },
+      "@EndUserText.label": "Tank_Basic_Data",
+      "@ObjectModel.modelingPattern": {
+        "#": "DATA_STRUCTURE"
+      }
+    }
+  },
+  "meta": {
+    "PlatformRepositoryVersion": "2023.9.56"
+  }
+}

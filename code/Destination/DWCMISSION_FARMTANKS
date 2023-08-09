@@ -1,0 +1,13 @@
+#Password=<< Existing password/certificate removed on export >>
+#
+#Tue May 16 08:30:05 UTC 2023
+Description=OData Endpoints to Farm Tank entities
+Type=HTTP
+HTML5.DynamicDestination=true
+Authentication=BasicAuthentication
+WebIDEUsage=odata_gen
+Name=DWCMISSION_FARMTANKS
+ProxyType=Internet
+URL=<application route>/farm-tank
+User=<user>
+AppgyverEnabled=true
