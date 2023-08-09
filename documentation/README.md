@@ -16,9 +16,8 @@
     2. [Configure your global account and subaccount in SAP BTP](./set-up/configure-account)
     3. [Set up SAP Business Application Studio](./set-up/set-up-business-application-studio)
     4. [Set up SAP Build Apps](./set-up/set-up-build-apps)
-    5. [Set up SAP Build Work Zone, standard edition](./set-up/set-up-build-work-zone)
-    6. [Set up SAP Datasphere](./set-up/set-up-datasphere)
-    7. [Set up SAP Analytics Cloud](./set-up/set-up-sac)
+    5. [Set up SAP Datasphere](./set-up/set-up-datasphere)
+    6. [Set up SAP Analytics Cloud](./set-up/set-up-sac)
 
 * [DEVELOP](../documentation/develop)
 
@@ -35,5 +34,4 @@
 
 * [COMPLETE](../documentation/complete)
     1. [Tell us what do you think](./complete/give-feedback)
-    2. [Explore similar missions](./complete/explore-similar-missions)
-    3. [Complete the mission](./complete/complete-mission)
+    2. [Complete the mission](./complete/complete-mission)
