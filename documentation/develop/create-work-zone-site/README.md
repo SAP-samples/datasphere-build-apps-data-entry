@@ -22,27 +22,27 @@ In this section, the application will be connected with SAP Build Work Zone, sta
 
     <img src="./images/ba_workzone2.png" width="400px">
 
-7. In the **Items** table, select the checkbox of your application and choose **Add to My Content**.
+7. In the **Items** table, select the checkbox of your application and choose **Add**.
 
     <img src="./images/ba_workzone3.png" width="400px">
 
-8. Go to the **My Content** tab, choose **New** and select **Group** from dropdown.
+8. Go to the **My Content** tab, choose **Create** and select **Group** from dropdown.
 
     <img src="./images/ba_workzone4.png" width="400px">
 
-9. Add a title.
+9. Add a title e.g. _Tank Farm_.
 
-10. Assign the items on the right section of your screen. Search for your application and choose the **+** icon to assign it.
+10. Find your applications in the table. In row Assignment Status switch **toggle button** to on
 
 11. Choose **Save**.
 
     <img src="./images/ba_workzone5.png" width="400px">
 
-12. Go back in **Content Manager**, and create a new role.
+12. Go back in **Content Manager**, and choose **Create** and select **Role**.
 
     <img src="./images/ba_workzone6.png" width="400px">
 
-13. Enter the **FieldTechnician** title, and on the right section of your screen, search for your application and choose the **+** icon to assign it.
+13. Enter the _FieldTechnician_ as title. Find your application in the table. In row Assignment Status switch **toggle button** to on
 
 14. Choose **Save**.
 
