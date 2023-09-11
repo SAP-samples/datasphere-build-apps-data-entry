@@ -13,8 +13,8 @@
 * [SET UP](../documentation/set-up)
 
     1. [Prerequisites](./set-up/mission-prerequisites/README.md)
-    2. [Set up SAP Business Application Studio](./set-up/set-up-business-application-studio)
-    3. [Set up SAP Build Apps](./set-up/set-up-build-apps)
+    2. [Set up SAP Build Apps](./set-up/set-up-build-apps)
+    3. [Set up SAP Business Application Studio](./set-up/set-up-business-application-studio)
     4. [Set up SAP Datasphere](./set-up/set-up-datasphere)
     5. [Set up SAP Analytics Cloud](./set-up/set-up-sac)
 
