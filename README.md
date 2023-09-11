@@ -41,8 +41,8 @@ You can find all requirements to execute the tutorial in the [Prerequisites](/do
 ### Set-up
 
   * [Prerequisites](/documentation//set-up/mission-prerequisites/README.md)
+  * [Set up SAP Build Apps](./documentation/set-up/set-up-build-apps)    
   * [Set up SAP Business Application Studio](./documentation/set-up/set-up-business-application-studio)
-  * [Set up SAP Build Apps](./documentation/set-up/set-up-build-apps)
   * [Set up SAP Build Work Zone, standard edition](./documentation/set-up/set-up-build-work-zone)
   * [Set up SAP Datasphere](./documentation/set-up/set-up-datasphere)
   * [Set up SAP Analytics Cloud](./documentation/set-up/set-up-sac)
