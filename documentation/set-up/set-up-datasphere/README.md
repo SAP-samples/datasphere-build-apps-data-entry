@@ -69,6 +69,12 @@ To enable the option to add an HDI Container into the SAP Datasphere space, foll
 
 This creates instance mapping between SAP BTP space and SAP Datasphere database. Since the mapping is tied to a particular SAP BTP space, it is necessary to create a unique mapping for each space in use. To create this mapping, you will be required to provide the ID of the SAP BTP Organization, Space ID, and SAP Datasphere tenant as essential details.
 
+>Note: 
+For SAP internal users, create a JIRA ticket containing the following information:
+Project: FPA35 - Ops Request (Andreas);
+Component: Service Request;
+Include details about BTP Org ID, BTP Space ID, datasphere tenant and Datasphere tenant url.
+
 See: 
 * [Add an HDI Container and Access its Objects in Your Space](https://help.sap.com/docs/SAP_DATASPHERE/be5967d099974c69b77f4549425ca4c0/5d55da5514b240ff8d3a970bf7dc6705.html)
 * [Blog: Access SAP Datasphere Artifatcs](https://blogs.sap.com/2021/03/18/expose-sap-data-warehouse-cloud-artefacts-as-odata-v4-service/)
