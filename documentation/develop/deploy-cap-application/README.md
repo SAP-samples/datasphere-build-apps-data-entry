@@ -25,7 +25,11 @@ Projects using CAP need to manage dependencies to the respective tools and libra
 
 It provides a list of outdated packages along with the version to which they would be updated, updates the dependencies in your package.json file to the most recent versions, and makes the necessary changes to the package.json file.
 
-4. Enter **npm install**.
+4. Enter **npm i @sap/cds-dk**
+
+It updates the cds version.
+
+5. Enter **npm install**.
 
 The **package-lock.json** file in your project root freezes all dependencies and is deployed with your application. 
 
