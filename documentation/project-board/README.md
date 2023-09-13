@@ -13,11 +13,10 @@
 * SET UP
 
     1. [Prerequisites](./documentation/set-up/mission-prerequisites/README.md)
-    2. [Configure your global account and subaccount in SAP BTP](./documentation/set-up/configure-account)
+    2. [Set up SAP Build Apps](./documentation/set-up/set-up-build-apps)
     3. [Set up SAP Business Application Studio](./documentation/set-up/set-up-business-application-studio)
-    4. [Set up SAP Build Apps](./documentation/set-up/set-up-build-apps)
-    5. [Set up SAP Datasphere](./documentation/set-up/set-up-datasphere)
-    6. [Set up SAP Analytics Cloud](./documentation/set-up/set-up-sac)
+    4. [Set up SAP Datasphere](./documentation/set-up/set-up-datasphere)
+    5. [Set up SAP Analytics Cloud](./documentation/set-up/set-up-sac)
 
 * DEVELOP
 
