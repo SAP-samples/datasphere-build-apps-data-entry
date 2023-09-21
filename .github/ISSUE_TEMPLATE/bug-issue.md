@@ -1,13 +1,4 @@
 ---
-name: bug issue
-about: You found a bug in the code or in the step-by-step description.
-title: ''
-labels: ''
-assignees: SarahKraemer, kpadmapriya, mhplum
-
----
-
----
 name: Bug in code
 about: You found a bug in the code or in the step-by-step description.
 title: ''
