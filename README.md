@@ -70,7 +70,7 @@ You can find all requirements to execute the tutorial in the [Prerequisites](/do
 
 ## How to Obtain Support
 
-[Create an issue]() in this repository if you find a bug or have questions about the content. //ToDo
+[Create an issue](https://github.com/SAP-samples/datasphere-build-apps-data-entry/issues) in this repository if you find a bug or have questions about the content. 
 
 For additional support, [ask a question in SAP Community](https://answers.sap.com/questions/ask.html).
 
