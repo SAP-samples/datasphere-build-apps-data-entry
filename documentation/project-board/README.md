@@ -33,5 +33,5 @@
 - COMPLETE
   - [Tell us what do you think](../complete/give-feedback)
   - [Complete the mission](../complete/complete-mission)
-      
- <!-- disco-toc-end -->
+
+<!-- disco-toc-end -->
