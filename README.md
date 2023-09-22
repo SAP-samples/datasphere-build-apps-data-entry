@@ -1,5 +1,7 @@
 # Enable End-User Data Entry into SAP Datasphere via SAP Build Apps
 
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/datasphere-build-apps-data-entry)](https://api.reuse.software/info/github.com/SAP-samples/datasphere-build-apps-data-entry)
+
 This tutorial shows how end users can add data directly into SAP Datasphere to enable additional business scenarios and to support process optimizations. Learn how to create insightful dashboards that help you improve your business decisions. You will utilize the flexibility of SAP Build Apps as a channel to enter data.
 
 You can find this scenario as a mission in [SAP Discovery Center](). //TODO
