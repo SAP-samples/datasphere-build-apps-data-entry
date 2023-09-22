@@ -12,7 +12,6 @@
     - [Learn About SAP Analytics Cloud](./documentation/discover/sap-analytics-cloud)
    
 - SET UP
-
     - [Prerequisites](./documentation/set-up/mission-prerequisites/README.md)
     - [Set up SAP Build Apps](./documentation/set-up/set-up-build-apps)
     - [Set up SAP Business Application Studio](./documentation/set-up/set-up-business-application-studio)
@@ -20,7 +19,6 @@
     - [Set up SAP Analytics Cloud](./documentation/set-up/set-up-sac)
 
 - DEVELOP
-
     - [Create Master Table in SAP Datasphere](./documentation/develop/create-master-table)
     - [Create SAP BTP User-Provided Service](./documentation/develop/create-user-provided-service)
     - [Create CAP Application](./documentation/develop/create-cap-application)  
