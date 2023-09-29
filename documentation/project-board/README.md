@@ -8,7 +8,7 @@
   - [Learn the basics of SAP BTP](../discover/sap-btp-basics)
   - [Learn about SAP Datasphere](../discover/sap-datasphere)
   - [Learn about SAP Build Apps](../discover/sap-build-apps)
-  - [Discover the Cloud Application Programming Model (CAP)](..discover/discover-cap)
+  - [Discover the Cloud Application Programming Model (CAP)](../discover/discover-cap)
   - [Learn About SAP Analytics Cloud](../discover/sap-analytics-cloud)
    
 - SET UP
