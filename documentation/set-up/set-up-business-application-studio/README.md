@@ -4,4 +4,4 @@ In this section, you subscribe to the SAP Business Application Studio. SAP Busin
 
 In this tutorial you will use SAP Business Application Studio to develop and deploy the CAP application.
 
-Follow the steps in the [Subscribe to SAP Business Application Studio](https://help.sap.com/docs/bas/sap-business-application-studio/getting-started) documentation.
+Follow the steps in the [Subscribe to SAP Business Application Studio](https://help.sap.com/docs/bas/sap-business-application-studio/subscribe-to-sap-business-application-studio) documentation.
