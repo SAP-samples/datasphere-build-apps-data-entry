@@ -4,7 +4,7 @@
 
 This tutorial shows how end users can add data directly into SAP Datasphere to enable additional business scenarios and to support process optimizations. Learn how to create insightful dashboards that help you improve your business decisions. You will utilize the flexibility of SAP Build Apps as a channel to enter data.
 
-You can find this scenario as a mission in [SAP Discovery Center]().
+You can find this scenario as a mission in [SAP Discovery Center](https://discovery-center.cloud.sap/missiondetail/4254/).
 
 ## Business Scenario
 
