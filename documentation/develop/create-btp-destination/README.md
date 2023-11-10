@@ -16,7 +16,7 @@ To enable your SAP Build Apps app to use the OData endpoints of your CAP applica
 * **Name**: a meaningful name, for example **DWCMISSION_FARMTANKS**
 * **Type**: **HTTP**
 * **Description**: for example **OData Endpoints to Farm Tank entities**
-* **URL**: the application route (obtained when [deploying the CAP application](./../deploy-cap-application/README.md)) followed by **/farm-tank**
+* **URL**: the application route (obtained when [deploying the CAP application](./../deploy-cap-application/README.md)) followed by **/odata/v4/farm-tank**
 * **ProxyType**: **Internet**
 * **Authentication**: **BasicAuthentication**
 * **User**: **field.technician@tester.sap.com**
