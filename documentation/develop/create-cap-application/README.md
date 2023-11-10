@@ -77,7 +77,7 @@ See:
 2. The service model is defined in **cap-service.cds** which will expose the CDS entity above as OData service.
 <img src="./images/service-file.png">
 
-3. Authentication role is specified in the **.package.json** file.
+3. Authentication role is specified in the **package.json** file.
 
 ## Summary
  
