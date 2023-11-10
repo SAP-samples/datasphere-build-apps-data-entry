@@ -38,39 +38,23 @@ In this section, the application will be connected with SAP Build Work Zone, sta
 
     <img src="./images/ba_workzone5.png" width="80%">
 
-12. Go back in **Content Manager**, and choose **Create** and select **Role**.
+12. In the menu on the left side, navigate to **Site Directory**.
 
-    <img src="./images/ba_workzone6.png" width="80%">
-
-13. Enter the _FieldTechnician_ as title. Find your application in the table. In row Assignment Status switch **toggle button** to on
-
-14. Choose **Save**.
-
-    <img src="./images/ba_workzone7.png" width="70%">
-
-    The role **FieldTechnician** means that a user needs to have a Role Collection named **FieldTechnician** assigned to it in order to access the application.
-
-15. In the menu on the left side, navigate to **Site Directory**.
-
-16. Choose **Create Site**.
+13. Choose **Create Site**.
 
     <img src="./images/ba_workzone8.png" width="70%">
 
-17. Enter the name for the site and choose **Create**.
+14. Enter the name for the site and choose **Create**.
 
     Now, you are forwarded to the site editor.
 
-18. Add the role **FieldTechnician** to the site.
+15. Navigate to **Site Directory**.
 
-    <img src="./images/ba_workzone9.png" width="60%">
-
-19. Navigate to **Site Directory**.
-
-20. Find your created site and open it by choosing **Go to site**.
+16. Find your created site and open it by choosing **Go to site**.
 
     <img src="./images/ba_workzone10.png" width="60%">
 
-21. Test the application by clicking the tile.
+17. Test the application by clicking the tile.
 
     <img src="./images/ba_workzone11.png" width="60%">
 
