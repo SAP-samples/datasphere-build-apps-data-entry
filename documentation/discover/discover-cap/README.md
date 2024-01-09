@@ -4,4 +4,4 @@ SAP Cloud Application Programming Model is a framework of languages, libraries a
 
 To learn about the SAP Cloud Application Programming Model, see:
 * [About SAP Cloud Application Programming Model](https://cap.cloud.sap/docs/about/)
-* [Getting Started with SAP Cloud Application Programming Model](https://cap.cloud.sap/docs/get-started/)
+* [Getting Started with SAP Cloud Application Programming Model](https://cap.cloud.sap/docs/get-started/in-a-nutshell)
