@@ -126,7 +126,7 @@ If the application is behaving correctly, you can deploy it in the next step. Pr
 
    <img src="./images/ba_dev1.png" width="400px">
 
-   You can see the pages of the appication. This is where you select the page you want to work on.  
+   You can see the pages of the application. This is where you select the page you want to work on.  
 
 2. Choose the **Home page** to go back to it.
 
@@ -207,7 +207,7 @@ A **Page mounted** event fills the **pv_ndr_tankvolumes.tank_id** page variable 
 
 On the UI canvas in the center of your screen, there are standard components (Two **Texts** and a **Button**) that have been dragged from **CORE** tab on the left of your screen. The **Collapsible grouped basic list** and **Embedded map view (beta)** have been installed from the marketplace and then dragged onto the canvas from the **INSTALLED** tab.
 	
-1. Choose **Register Tank Volume** to navigate to the **Register Tank Volume** page.
+1. Select the button.  On the **Logic canvas**, see that it navigates to the **Register Tank Volume** page.
 
 2. Select the **Collapsible grouped basic list** to see its configuration in the **PROPERTIES** section.
 
