@@ -66,6 +66,15 @@ Check your settings and press **Finish**
 
 Follow the steps in [SAP Help](https://help.sap.com/docs/BUILD_APPS/431746e4c663458aa68d9754b237bfc6/01225b6b951d425c97b58a834a1ff484.html?locale=en-US#configuring-user-roles)
 
+## Additional Configuration for Deployment of Apps and Integration with Work Zone
+
+In order to access your deployed apps in HTML5 Applications, you need to:
+
+* Enable Cloud Identity Services in Work Zone
+
+* Establish dependency between Work Zone and Build Apps in IAS
+
+This is described in section [Deployed Applications](https://help.sap.com/docs/build-apps/service-guide/integration-to-app-builder?q=workzone#deployed-applications) of SAP Help.
 
 ## Links 
 * [SAP Help: Subscribe to SAP Build Apps](https://help.sap.com/docs/BUILD_APPS/431746e4c663458aa68d9754b237bfc6/01225b6b951d425c97b58a834a1ff484.html?locale=en-US)
