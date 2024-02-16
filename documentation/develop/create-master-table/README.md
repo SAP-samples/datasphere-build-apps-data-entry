@@ -105,6 +105,8 @@ FROM "Tank_Basic_Data"
 8. [Optional] The data can be viewed from **Data Viewer** in the **View** section.
 
 9. Choose **Save**, and then choose **Deploy**.
+    
+>**Note:** If you encounter the 'Your model seems to be empty. Please add some columns.' error before saving the view, it will be removed when you save the view.
 
 <img src="./images/sql-view.png">
 
