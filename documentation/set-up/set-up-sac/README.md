@@ -15,7 +15,7 @@ To access the analytic model from SAP Datasphere, first you have to add the SAP 
 3. Choose **Administration** and then choose **App Integration**. 
 4. In the **Trusted Origins** section, choose **Add a Trusted Origin**.
 5. Add the URL of your SAP Analytics Cloud system.
-6. Choose **Save**, and then choose **Deploy**.
+6. Choose **Save**.
 
 <img src="./images/trusted-origin.png">
 
