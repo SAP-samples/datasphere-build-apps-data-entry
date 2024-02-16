@@ -72,6 +72,7 @@ Create an SQL view to have only the latest readings of the tanks along with the 
 4. In the **Business Name** field, enter **vLatestManualReadings**.
 5. In the **Semantic Usage** field, select **Fact**.
 6. Choose **Format** and **Validate SQL** from the canvas menu.
+7. Choose **Save**.
 
    <img src="./images/fact-view-1.png">
 
