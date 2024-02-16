@@ -71,6 +71,7 @@ In this section, your task is to incorporate an input control that allows users 
 
 5. Expand the page filter horizontaly to view the title (TIME STAMP) and the date ranges.
 6. In the **Title** field, enter **Tank Volume Reading Date**.
+7. In the **Look Back** field under the selected year, enter **10** to view the data in the charts & table.
 
 <img src="./images/filter-finished.png">
 
@@ -105,7 +106,7 @@ The map displays the positions of individual tanks, visually distinguished by co
 1. Choose **+ Create Geo Map** to open the **Builder**.
 2. Under **Content Layers**, choose **+ Add Layer**.
 3. Under **Location Dimension**, choose **+ Location Dimension Required** to open location dimensions. You see the **Location** is listed. Select the location.
-4. Under the **Bubble Color**, choose **+ Add Measure/Dimension**, select **Size** under **Dimensions**. 
+4. Under the **Bubble Color**, choose **+ Add Measure/Dimension**, select **Size(Member)** under **Dimensions**. 
 
 <img src="./images/map-layer.png">
 
