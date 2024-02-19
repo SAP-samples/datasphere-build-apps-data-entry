@@ -65,15 +65,21 @@ To enable the option to add an HDI Container into the SAP Datasphere space, foll
 
 1. In the side navigation area, choose **Space Management**, locate your space tile (Tank Farm), and choose **Edit** to open it.
 
-2. In the **HDI Container section**, if the + button is not available, then you need to raise a ticket following the dialog instruction.
+2. Go to the **HDI Containers** section. If it is not available, make sure that you have **DW Scoped Space Administrator** role for the space.
 
-This creates instance mapping between SAP BTP space and SAP Datasphere database. Since the mapping is tied to a particular SAP BTP space, it is necessary to create a unique mapping for each space in use. To create this mapping, you will be required to provide the ID of the SAP BTP Organization, Space ID, and SAP Datasphere tenant as essential details.
+    >**Note:** 
+    >1. If you are a **System Owner**, you may not have the **HDI Containers** section by default. In this case, you will need to have the **DW Scoped Space Administrator** as well.
+    >2. No users can assign roles to themselves, even if you are a **System Owner**. Roles must be assigned by another **DW Administrator** user.
 
->Note: 
-For SAP internal users, create a JIRA ticket containing the following information:
-Project: FPA35 - Ops Request (Andreas);
-Component: Service Request;
-Include details about BTP Org ID, BTP Space ID, datasphere tenant and Datasphere tenant url.
+3. In the **HDI Containers** section, if the + button is not available, then you need to raise a ticket following the dialog instruction.
+
+    This creates instance mapping between SAP BTP space and SAP Datasphere database. Since the mapping is tied to a particular SAP BTP space, it is necessary to create a unique mapping for each space in use. To create this mapping, you will be required to provide the ID of the SAP BTP Organization, Space ID, and SAP Datasphere tenant as essential details.
+
+    >**Note:** 
+    For SAP internal users, create a JIRA ticket containing the following information:
+    Project: FPA35 - Ops Request (Andreas);
+    Component: Service Request;
+    Include details about BTP Org ID, BTP Space ID, datasphere tenant and Datasphere tenant url.
 
 See: 
 * [Add an HDI Container and Access its Objects in Your Space](https://help.sap.com/docs/SAP_DATASPHERE/be5967d099974c69b77f4549425ca4c0/5d55da5514b240ff8d3a970bf7dc6705.html)
