@@ -38,23 +38,31 @@ In this section, the application will be connected with SAP Build Work Zone, sta
 
     <img src="./images/ba_workzone5.png" width="80%">
 
-12. In the menu on the left side, navigate to **Site Directory**.
+12. Return to the **Content Manager** and click **Everyone** to navigate to that role.
 
-13. Choose **Create Site**.
+13. Choose **Edit**.
+
+14. Find your application in the table and switch the **Assignment Status** to on.
+
+    <img src="./images/ba_workzone12.png" width="80%">
+
+15. In the menu on the left side, navigate to **Site Directory**.
+
+16. Choose **Create Site**.
 
     <img src="./images/ba_workzone8.png" width="70%">
 
-14. Enter the name for the site and choose **Create**.
+17. Enter the name for the site and choose **Create**.
 
     Now, you are forwarded to the site editor.
 
-15. Navigate to **Site Directory**.
+18. Navigate to **Site Directory**.
 
-16. Find your created site and open it by choosing **Go to site**.
+19. Find your created site and open it by choosing **Go to site**.
 
     <img src="./images/ba_workzone10.png" width="60%">
 
-17. Test the application by clicking the tile.
+20. Test the application by clicking the tile.
 
     <img src="./images/ba_workzone11.png" width="60%">
 
