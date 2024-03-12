@@ -187,7 +187,7 @@ Once you have created the story successfully, you can view it by selecting the *
 
 <img src="./images/story-share.png">
 
-4. Choose **Customize Link**, and enter **mode=embed&pageBar=disable&page=1&lan=en** in the **Set URL Parameters** field.
+4. Choose **Customize Link**, and enter **mode=present** in the **Set URL Parameters** field.
 5. In the **Enter a Custom Link** field, give a name for the dashboard, for example **TankVolumeDashboard**.
 6. Choose **Save** to go back to **Share Story** dialog.
 
