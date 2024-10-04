@@ -4,7 +4,7 @@
 
 In this section you will build the application that you have created using SAP Build Apps, and then deploy it in SAP BTP as an HTML5 application.
 
-## Build the Application
+## Build and Deploy the Application
 
 1. In **SAP Build Apps**, choose **LAUNCH**.
 
@@ -12,58 +12,44 @@ In this section you will build the application that you have created using SAP B
 
    <img src="./images/ba_deploy1.png" width="400px">
 
-3. In the **Web App** section, choose **CONFIGURE**.
+3. Choose **Create Configuration**.
 
-   <img src="./images/ba_deploy2.png" width="400px">
+   <img src="./images/new_ba_build_02.png" width="400px">
 
-5. In the **Bundle Settings** tab, choose **MTAR** and then choose **NEXT**.
+5. Choose **SAP Build Work Zone**.
 
-   <img src="./images/ba_deploy3.png" width="400px">
+   <img src="./images/new_ba_build_03.png" width="400px">
 
-6. In the **Image Assets** tab, choose **NEXT**.
+6. Enter a name for the configuration, then choose **Create**.
 
-7. On **Permissions**, choose **NEXT**.
+   <img src="./images/new_ba_build_04.png" width="400px">
 
-8. In the **Web App** section, choose **BUILD**.
+7. Choose the build configuration, enter a version number (for example, **0.0.1**), then choose **Build**.
 
-   <img src="./images/ba_deploy4.png" width="400px">
+   <img src="./images/new_ba_build_05.png" width="400px">
 
-9. Choose the **MTAR** file type.
+   The **Build History** section first shows the status **Created**. It will change to **Building** and finally **Delivered**.
 
-10. Choose the latest runtime version.
+8. Click on the **Delivered** line in the **Build History** to open the **Build Details**.
 
-11. Enter a version number, for example, **0.0.1**.
+   <img src="./images/new_ba_build_06.png" width="400px">
 
-12. Choose **BUILD**.
+9. Choose **Deploy**.
 
-   <img src="./images/ba_deploy5.png" width="400px">
+   <img src="./images/new_ba_build_07.png" width="400px">
 
-   The **History** section now shows the status **created**.
+10. Select the **API Endpoint** (you will need to authorize yourself using your identity provider the first time you do this.), **Organization** and **Space**, then choose **Continue**.
 
-   <img src="./images/ba_deploy6.png" width="400px">
+    <img src="./images/new_ba_build_08.png" width="400px">
 
-   The **Build** page will not notify via e-mail once the build has been completed. You have to refresh the browser to check if the build has been completed. The build can take more than 10 minutes.
+    The deployment starts. When it finishes, you will see a link to the application.
 
-13. Refresh the browser until the status changes from **created** to **queued** and then finally to **delivered**, at which point a **DEPLOY MTA** button appears. This can take several minutes.
+11. Click on the link to open the application.
 
-    <img src="./images/ba_deploy7.png" width="400px">
+    <img src="./images/new_ba_build_09.png" width="400px">
+
+
      
-
-## Deploy the Application
-
-1. In the **Web App** section, choose **DEPLOY MTA**.
-   
-   You will need to authorize yourself using your identity provider the first time you do this.
-
-2. Select the values in the **Environment**, **Organization** and **Space** fields, and then choose **DEPLOY MTA TO \<SPACENAME\>**.
-
-    <img src="./images/ba_deploy8.png" width="400px">
-
-3. Wait until the deployment is completed and choose **CLOSE**.
-
-    <img src="./images/ba_deploy9.png" width="400px">
-
-
 
 ## Check the Deployment
 
@@ -73,9 +59,9 @@ In this section you will build the application that you have created using SAP B
 
    In the **Managed Application Router provided by SAP Build Work Zone, standard edition** section, you will find a list of applications.
 
-   <img src="./images/ba_deploy10.png" width="400px">
+   <img src="./images/new_ba_build_10.png" width="400px">
 
-3. Click the **Application Name** (this will be the build number).
+3. Click the **Application Name** (this will include the **App Id** from the build configuration).
 
    Your application opens. Depending on how your subaccount is configured, you might need to choose the identity provider and log in.
 
