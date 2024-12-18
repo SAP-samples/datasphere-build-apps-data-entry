@@ -1,3 +1,7 @@
+# **⚠️ Repository Archived**
+
+This repository has been archived and is no longer actively maintained.
+
 # Enable End-User Data Entry into SAP Datasphere via SAP Build Apps
 
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/datasphere-build-apps-data-entry)](https://api.reuse.software/info/github.com/SAP-samples/datasphere-build-apps-data-entry)
